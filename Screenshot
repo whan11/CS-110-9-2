@@ -1,0 +1,8 @@
+Crystals-MacBook-Air:~ crystal$ cd
+Crystals-MacBook-Air:~ crystal$ ls
+CS-110-9-2	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures
+Crystals-MacBook-Air:~ crystal$ cd CS-110-9-2/
+Crystals-MacBook-Air:CS-110-9-2 crystal$ ls
+Jason.txt	Nicholas.txt	William.txt	crystal.txt
+Crystals-MacBook-Air:CS-110-9-2 crystal$ 
